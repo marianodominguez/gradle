@@ -131,7 +131,6 @@ val groovyBuildScriptProjects = listOf(
     "testing-base",
     "testing-jvm",
     "testing-junit-platform",
-    "platform-play",
     "test-kit",
     "soak",
     "smoke-test",
