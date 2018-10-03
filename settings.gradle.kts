@@ -115,7 +115,6 @@ val groovyBuildScriptProjects = listOf(
     "distributions",
     "wrapper",
     "docs",
-    "signing",
     "performance",
     "testing-base",
     "testing-jvm",
