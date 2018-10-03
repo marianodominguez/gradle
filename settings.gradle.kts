@@ -120,7 +120,6 @@ val groovyBuildScriptProjects = listOf(
     "resources-gcs",
     "resources-s3",
     "resources-sftp",
-    "plugins",
     "scala",
     "docs",
     "signing",
